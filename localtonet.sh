@@ -2,7 +2,7 @@
 
 # ===============================
 #  LocaltoNet Installer Script
-#  Made by Hopingboyz
+#  Made by Hopingboyz && COPIED BY (AALXAN CODES)
 # ===============================
 
 clear
